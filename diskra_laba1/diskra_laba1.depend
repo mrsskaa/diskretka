@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1772468796 source:c:\users\asus\documents\Дискра\diskra_laba1_ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
